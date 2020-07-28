@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Iphone 6 plus",
+      "price": "999",
+      "status": true,
+      "id": 1
+    },
+    {
+      "name": "Iphone 7",
+      "price": "5000",
+      "status": false,
+      "id": 2
+    },
+    {
+      "name": "test",
+      "price": "1",
+      "status": false,
+      "id": 3
+    },
+    {
+      "name": "hihi",
+      "price": "5",
+      "status": false,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Oppe J1",
+      "price": "1",
+      "status": true
+    }
+  ]
+}
